@@ -1,4 +1,4 @@
 # Testing-github
-My first repo lol
 
-#hello, idk why can't we run a file here
+I am trying to create and append to a file through python with github actions.
+I don't know why the current script doesn't work
