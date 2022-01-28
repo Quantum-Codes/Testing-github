@@ -8,8 +8,8 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-  schedule:
-  - cron: "*/16 * * * *"
+  #schedule: this runs the code every 16 mins. minimum is 15 mins
+  #- cron: "*/16 * * * *"
 
 jobs:
   build:
