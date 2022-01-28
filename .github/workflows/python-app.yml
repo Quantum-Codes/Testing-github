@@ -35,4 +35,4 @@ jobs:
       run: |
         var=$(python code/main.py)
         echo lolol
-        echo $(var)
+        echo $var
